@@ -1,0 +1,129 @@
+.body{
+background: url(/img/wlp.jpeg);
+min-height: 100vh;
+height: 100%;
+width: 100%;
+background-size: cover;
+background-position: center;
+position: relative;
+}
+
+#time{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding-top: 5px;
+}
+
+.battery{
+    padding-top: 7px;
+}
+.bat{
+    padding-left: 5px;
+}
+.bawah{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    box-sizing: border-box;
+    border: 2px solid gray;
+    background-color: gainsboro;
+}
+.home{
+    padding-top: 0 auto;
+}
+
+.apk{
+    display: inline-block;
+    gap: 60px;
+    padding: 0 auto;
+    margin: 0 auto;
+}
+.app{
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+.menu{
+    margin: 4px;
+}
+
+.bg1{
+    background: url(/img/wlp.jpeg);
+    min-height: 100vh;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.bg2{
+    background: url(/img/walpaper.jpeg);
+    min-height: 100vh;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.bg3{
+    background: url(/img/wlp1.jpeg);
+    min-height: 100vh;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    position: relative;    
+}
+
+.bg4{
+    background: url(/img/wlp2.jpeg);
+    min-height: 100vh;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    position: relative;    
+}
+
+.bg5{
+    background: url(/img/wlp3.jpeg);
+    min-height: 100vh;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    position: relative;    
+}
+
+.bg6{
+    background: url(/img/wlp4.jpeg);
+    min-height: 100vh;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    position: relative;    
+}
+
+.bg7{
+    background: url(/img/wlp5.jpeg);    
+    min-height: 100vh;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    position: relative;    
+}
+.bg8{
+    background: url(/img/wlp6.jpeg);
+    min-height: 100vh;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    position: relative;    
+}
+
